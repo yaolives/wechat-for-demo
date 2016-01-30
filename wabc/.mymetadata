@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wabc"
+  id="myeclipse.1395418870167"
+  context-root="/wabc"
+  j2ee-spec="6.0"
+  archive="wabc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
